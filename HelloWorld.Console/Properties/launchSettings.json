@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloWorld.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "The Functional Coder"
+    }
+  }
+}
